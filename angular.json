@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-login-reg"
+    }
+  },
+  "defaultProject": "angular-login-reg",
+  "cli": {
+    "analytics": "13429383-115d-48bf-9d73-5799c1b4c249"
+  }
 }
